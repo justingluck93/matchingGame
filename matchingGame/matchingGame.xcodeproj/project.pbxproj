@@ -13,6 +13,7 @@
 		D0A699E822297C0700B8CF5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A699E722297C0700B8CF5C /* Assets.xcassets */; };
 		D0A699EB22297C0700B8CF5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0A699E922297C0700B8CF5C /* LaunchScreen.storyboard */; };
 		D0A699F622297C0700B8CF5C /* matchingGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A699F522297C0700B8CF5C /* matchingGameTests.swift */; };
+		D0A69A012229BF0000B8CF5C /* MatchingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A69A002229BF0000B8CF5C /* MatchingModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D0A699F122297C0700B8CF5C /* matchingGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = matchingGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0A699F522297C0700B8CF5C /* matchingGameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = matchingGameTests.swift; sourceTree = "<group>"; };
 		D0A699F722297C0700B8CF5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0A69A002229BF0000B8CF5C /* MatchingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchingModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				D0A699E022297C0600B8CF5C /* AppDelegate.swift */,
 				D0A699E222297C0600B8CF5C /* ViewController.swift */,
 				D0A699E422297C0600B8CF5C /* Main.storyboard */,
+				D0A69A002229BF0000B8CF5C /* MatchingModel.swift */,
 				D0A699E722297C0700B8CF5C /* Assets.xcassets */,
 				D0A699E922297C0700B8CF5C /* LaunchScreen.storyboard */,
 				D0A699EC22297C0700B8CF5C /* Info.plist */,
@@ -199,6 +202,7 @@
 			files = (
 				D0A699E322297C0600B8CF5C /* ViewController.swift in Sources */,
 				D0A699E122297C0600B8CF5C /* AppDelegate.swift in Sources */,
+				D0A69A012229BF0000B8CF5C /* MatchingModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
